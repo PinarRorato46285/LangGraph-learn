@@ -28,3 +28,4 @@ Notes and usage details for LangGraph-learn.
 - fix a small wording issue
 - add a note about the defaults
 - fix a small wording issue
+- add a note about the defaults
